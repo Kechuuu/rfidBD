@@ -15,6 +15,13 @@ Here is a preview of the main interface of the application:
 
 ![login](https://github.com/Kechuuu/rfidBD/assets/117384007/9ced11dd-0225-4906-8730-ea53423443a1)
 
+### Main
+
+Here is the main interface of the application:
+
+![image](https://github.com/Kechuuu/rfidBD/assets/117384007/b1f0f9f7-48da-4440-a4b3-5a038877fbb6)
+
+
 ### Selecting the Port 
 
 In this section, you can select the port :
