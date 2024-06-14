@@ -19,7 +19,7 @@ Here is a preview of the main interface of the application:
 
 Here is the main interface of the application:
 
-![image](https://github.com/Kechuuu/rfidBD/assets/117384007/b1f0f9f7-48da-4440-a4b3-5a038877fbb6)
+![main_](https://github.com/Kechuuu/rfidBD/assets/117384007/f89dd05e-5671-4dcb-831f-0ad77e6bc072)
 
 ###  Check user
 
