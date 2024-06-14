@@ -28,6 +28,11 @@ In this section, you can select the port :
 
 ![image](https://github.com/Kechuuu/rfidBD/assets/117384007/f5de5ae7-a1b3-4da9-9d9e-f584f1079ab6)
 
+### Scan Rfid
+
+you can select the Rfid tag to scan (put over the scan):
+![image](https://github.com/Kechuuu/rfidBD/assets/117384007/1345a6b8-ef19-4a6f-9b6c-9d85210c8502)
+
 ### Using the Add and Check Buttons
 
 Use the "Add" button to upload user data to the database, and the "Check" button to review the users in the database:
