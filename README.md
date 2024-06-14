@@ -21,7 +21,6 @@ Here is the main interface of the application:
 
 ![image](https://github.com/Kechuuu/rfidBD/assets/117384007/b1f0f9f7-48da-4440-a4b3-5a038877fbb6)
 
-
 ### Selecting the Port 
 
 In this section, you can select the port :
