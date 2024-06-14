@@ -13,13 +13,14 @@ This project, `rfidBD`, is a system for managing access control using RFID cards
 
 Here is a preview of the main interface of the application:
 
-![login](https://github.com/Kechuuu/rfidBD/assets/117384007/9ced11dd-0225-4906-8730-ea53423443a1)
+![main_](https://github.com/Kechuuu/rfidBD/assets/117384007/f89dd05e-5671-4dcb-831f-0ad77e6bc072)
 
 ### Main
 
 Here is the main interface of the application:
 
-![main_](https://github.com/Kechuuu/rfidBD/assets/117384007/f89dd05e-5671-4dcb-831f-0ad77e6bc072)
+![Diseño sin título (26)](https://github.com/Kechuuu/rfidBD/assets/117384007/806f7cef-5593-4c52-8cb9-a09bc5ccb219)
+
 
 ###  Check user
 
