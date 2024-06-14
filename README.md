@@ -80,14 +80,8 @@ Once the application is running, follow these steps to use the RFID access syste
 2. Open the application in your browser.
 3. Follow the on-screen instructions to manage access control using RFID cards.
 
-## Contributing
-
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions or support, please open an issue or contact us at support@rfidbd.com.
+For questions or support, please open an issue or contact us at development@ochoa.technology
+
