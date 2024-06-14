@@ -45,21 +45,14 @@ To install and set up the system, follow these steps:
 
 1. **Clone the Repository:**
 
-    ```bash
-    git clone https://github.com/yourusername/rfidBD.git
-    ```
+ 
 
 2. **Navigate to the Project Directory:**
 
-    ```bash
-    cd rfidBD
-    ```
+
 
 3. **Install Dependencies:**
 
-    ```bash
-    npm install
-    ```
 
 4. **Set Up the MySQL Database:**
 
@@ -72,9 +65,6 @@ To install and set up the system, follow these steps:
 
 6. **Run the Application:**
 
-    ```bash
-    npm start
-    ```
 
 ## Usage
 
