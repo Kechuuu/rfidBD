@@ -21,6 +21,12 @@ Here is the main interface of the application:
 
 ![image](https://github.com/Kechuuu/rfidBD/assets/117384007/b1f0f9f7-48da-4440-a4b3-5a038877fbb6)
 
+###  Check user
+
+Only read the tag:
+
+![image](https://github.com/Kechuuu/rfidBD/assets/117384007/07b30b67-5c4c-4a38-9de2-3541d174c9b8)
+
 ### Selecting the Port 
 
 In this section, you can select the port :
