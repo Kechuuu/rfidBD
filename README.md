@@ -41,7 +41,7 @@ you can select the Rfid tag to scan (put over the scan):
 
 ### Using the Add and Check Buttons
 
-Use the "Add" button to upload user data to the database, and the "Check" button to review the users in the database:
+Use the "Add" button to upload user data to the database, and the "Check" button to review the users in the database (you must fulfill all prescribed requirements ):
 
 ![image](https://github.com/Kechuuu/rfidBD/assets/117384007/86286247-a90c-4038-8222-c2460cc5f19d)
 
