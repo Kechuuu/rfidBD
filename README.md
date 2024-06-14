@@ -28,11 +28,11 @@ In this section, you can select the port :
 
 ![image](https://github.com/Kechuuu/rfidBD/assets/117384007/f5de5ae7-a1b3-4da9-9d9e-f584f1079ab6)
 
-### Using the Get and Set Buttons
+### Using the Add and Check Buttons
 
-Use the "Get" button to retrieve data from the RFID modules, and the "Set" button to send configurations to them:
+Use the "Add" button to upload user data to the database, and the "Check" button to review the users in the database:
 
-![get-set](https://github.com/Kechuuu/EBYTE-NAS/assets/117384007/247a40f1-fb56-4852-90e1-b727018d0cda)
+![image](https://github.com/Kechuuu/rfidBD/assets/117384007/86286247-a90c-4038-8222-c2460cc5f19d)
 
 ## Installation
 
