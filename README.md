@@ -19,7 +19,7 @@ Here is a preview of the main interface of the application:
 
 In this section, you can select the port :
 
-![port_rfid](https://github.com/Kechuuu/rfidBD/assets/117384007/34b8f468-401f-4ab9-804b-74f4e8216e22)
+![image](https://github.com/Kechuuu/rfidBD/assets/117384007/f5de5ae7-a1b3-4da9-9d9e-f584f1079ab6)
 
 ### Using the Get and Set Buttons
 
