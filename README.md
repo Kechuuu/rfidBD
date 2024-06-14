@@ -9,17 +9,17 @@ This project, `rfidBD`, is a system for managing access control using RFID cards
 
 ## Preview
 
-### Main Interface
+### Login 
 
 Here is a preview of the main interface of the application:
 
-![main](https://github.com/Kechuuu/EBYTE-NAS/assets/117384007/9de86482-bc48-4058-a702-e1f61cd3596c)
+![login](https://github.com/Kechuuu/rfidBD/assets/117384007/9ced11dd-0225-4906-8730-ea53423443a1)
 
-### Selecting the Port and RFID Module Version
+### Selecting the Port 
 
-In this section, you can select the port and the version of the RFID module you are using:
+In this section, you can select the port :
 
-![port](https://github.com/Kechuuu/EBYTE-NAS/assets/117384007/684fcc6c-c92d-456a-b687-3a51696c78c1)
+![port_rfid](https://github.com/Kechuuu/rfidBD/assets/117384007/34b8f468-401f-4ab9-804b-74f4e8216e22)
 
 ### Using the Get and Set Buttons
 
